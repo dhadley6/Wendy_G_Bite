@@ -1,0 +1,66 @@
+body {
+  background-color: rgb(68,68,68);
+  color: #FFFFFF;
+  text-align: left;
+  border: 4px solid gray;
+  width: 510px
+  padding: 20px 40px 40px 20px;
+  margin: 40px;
+}
+
+p {
+  text-align: left;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+  color: gray;
+}
+
+h4 {
+
+}
+
+li {
+  text-align: left;
+  list-style-type: disc;
+}
+
+a {
+  color: turquoise
+}
+
+#page-header {
+  font-size:40px;
+  text-align:center;
+  font-style:italic;
+  color: white;
+}
+
+#resume {
+  color: grey;
+}
+
+.container {
+  padding: 0 50px;
+}
+
+.bottom-line {
+  text-align: center;
+  border-top: 2px solid gray;
+  padding: 0;
+}
+
+.social li {
+  display: inline;
+  padding: 5px;
+}
+
+.resumelist li {
+  list-style-type: square;
+  text-align: left;
+}
